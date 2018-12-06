@@ -1,3 +1,4 @@
+/* eslint-disable func-names */
 const Tree = function(value) {
   const newTree = {};
   newTree.value = value;
